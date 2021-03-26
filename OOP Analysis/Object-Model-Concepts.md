@@ -22,5 +22,5 @@
 
 *"OO analysis is a method of analysis that examines the requirements from the perspective of the classes and objects found in the vocabulary of the problem domain"*
                                         - Grady Booch
-                                        "Object Oriented Analysis & Design with Applications 3'rd Edition"
+                                        ["Object Oriented Analysis & Design with Applications 3'rd Edition"](https://learning.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/)
                                     
