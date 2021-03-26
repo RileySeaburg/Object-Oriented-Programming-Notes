@@ -51,8 +51,7 @@
 
 ### Object Oriented Design
 
-*OO design is a method of design encompassing the process of OO decomposition and a notation for depicting both logical and physical as well as static and dynamic models of the system under design.* - Grady Booch
-                                        ["Object Oriented Analysis & Design with Applications 3'rd Edition"](https://learning.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/)
+*OO design is a method of design encompassing the process of OO decomposition and a notation for depicting both logical and physical as well as static and dynamic models of the system under design.* - Grady Booch ["Object Oriented Analysis & Design with Applications 3'rd Edition"](https://learning.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/)
 
 - Focuses on object oriented decomposition.
 - Uses different notations to express different models of the system.
@@ -61,3 +60,27 @@
 - Results in a detailed description that specifies how the system is to be built using different technologies. 
 
 ![OOD Example Image](../public/OOD-Example-Image.png)
+
+### Object Oriented Programming
+
+*A method of implementation in which programs are organized as cooperative collections of objects, each of which represents an instance of some class, and whose callses are all members of a hierarchy of classes united via inheritance relationships.* - Grady Booch ["Object Oriented Analysis & Design with Applications 3'rd Edition"](https://learning.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/)
+
+- Uses objects as fundamental building blocks.
+- Classes & objects are related through relationships. 
+- Requires a programming language that supports:
+    - Objects as abstractions
+    - Classes
+    - generalization of classes
+- OOP Languages
+    - Java
+    - C++
+    - C#
+    - etc
+
+## Summary
+
+- Object model build upon three important concepts.
+- Object oriented analysis, design and programming
+- Analysis focuses on the problem.
+- Design is about object oriented decomposition and expression of the design using notations.
+- Programming is the implementation using an object oriented language.
