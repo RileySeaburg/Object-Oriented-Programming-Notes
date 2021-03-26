@@ -84,3 +84,16 @@
     - Promotes reuse of common functionality.
     - Leads to smaller systems
 - Evolve incrementally over a period of time. 
+
+
+Hello, 
+
+I am applying for the role of Backend Engineer
+ 
+I believe I am qualified for this position because I have been building applications for the last three years and I'm terrible at design.
+
+I have a great passion for development and I wake up every morning thinking about the code I'll be writing that day.
+
+I'm at a point in my life where I know what I want to do and I spend every day getting a little better at it until I can provide real and tangible value to an organization like yours.
+
+My name is Riley Seaburg and I want to be your Backend Engineer
