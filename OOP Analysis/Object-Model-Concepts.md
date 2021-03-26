@@ -2,7 +2,7 @@
 
 ## Evolution of Languages
 
-- Early computer languages we uses for mathematical and scientific operations.
+- Early computer languages were used for mathematical and scientific operations.
     - Freed the programmer from the intricacies of assembly languages.
 - Growth in size and complexity led to evolution in languages to accommodate new features. 
     - e.g. automation for business applications.
