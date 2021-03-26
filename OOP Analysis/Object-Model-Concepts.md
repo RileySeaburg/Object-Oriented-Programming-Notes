@@ -60,4 +60,4 @@
 - Hierarchical associations among the classes are designed. 
 - Results in a detailed description that specifies how the system is to be built using different technologies. 
 
-![OOD Example Image](//public/OOD-Example-Image.png)
+![OOD Example Image](public/OOD-Example-Image.png)
