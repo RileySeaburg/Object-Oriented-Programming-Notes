@@ -23,4 +23,13 @@
 *"OO analysis is a method of analysis that examines the requirements from the perspective of the classes and objects found in the vocabulary of the problem domain"*
                                         - Grady Booch
                                         ["Object Oriented Analysis & Design with Applications 3'rd Edition"](https://learning.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/)
-                                    
+- This is the first step for develop an object oriented system.
+- Investigation of the problem and requirements rather than the solution.
+- Focuses on what the system is supposed to do rather than how it will be done. 
+- Looks at the behavior of the system independent of it's domain.
+- Examines the real-wold environment in which the system will operate. 
+    - Includes people and things that will interact to produce some results
+    - Analysed in basic abstract forms, in multiple iterations.
+    - These abstractions later become classes in the problem domain.
+
+
