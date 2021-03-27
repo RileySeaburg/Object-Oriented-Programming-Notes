@@ -20,9 +20,11 @@
 
 - Smash into traffic, side objects (hydrant, phone booth, etc.)
 
-- Each hit will damage the player car and reduce its health • repair through health pickups
+- Each hit will damage the player car and reduce its health 
+    - repair through health pickups
 
-- Amount of damage caused is accumulated by the player • Smash anything, except trees & police cars (causes instant player death)
+- Amount of damage caused is accumulated by the player 
+    - Smash anything, except trees & police cars (causes instant player death)
 
 - Powerups are available
 
