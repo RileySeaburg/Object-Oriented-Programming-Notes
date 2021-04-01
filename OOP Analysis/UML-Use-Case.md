@@ -72,3 +72,19 @@
     
     ![Stick Figure Example](../public/Stick-Figure.png)
 
+3. Communication Line
+
+    - Connects an actor and a use case.
+    - Indicates participation of an actor. 
+    - Appears as a line between an actor and the use case. 
+
+      ![Communication Line Example](../public/Communication-Line.png)
+
+4. System Boundaries
+
+    - Indicates separation between actors and use cases  (internal to the system.)
+    - Marked by a bounded box around the use cases. 
+
+      ![System Boundary Example](../public/System-Boundary.png)
+
+![Use Case Diagram](../public/Use-Case-Diagram-Example.png)
