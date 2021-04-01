@@ -58,7 +58,7 @@
 - Shown as an oval shape with the description of the behavior.
 - Always triggered by an external entity.
 
-![Use Case Diagram UML Example](../public/Use-Case-UML-Example.png)
+![Use Case Diagram UML Example](../public/Use-Case-UML-Image.png)
 
 2. Actor
 
