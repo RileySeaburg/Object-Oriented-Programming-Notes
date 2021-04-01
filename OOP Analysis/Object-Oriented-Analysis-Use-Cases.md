@@ -81,4 +81,11 @@
 9. Extensions
     - Alternative steps in use case execution.
 
+
+#### Use Case Example
+
 ![Use Case Example](../public/Use-Case-Example.png)
+
+##### Main Flow
+
+![Example Main Flow](../public/Use-Case-Example-Main-Flow.png)
