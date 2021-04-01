@@ -51,7 +51,7 @@
 - Compute damage caused to traffic car
 - Accumulate damage as cash
 
-## Use Case
+### Use Case
 
 - Defines a model of a system behavior.
 - Uses natural language.
@@ -60,7 +60,7 @@
 - Smaller parts are easily described, hence easily implemented.
 - Models functional behavior of the system.
 
-### Use Case Description
+#### Use Case Description
 
 1. Goal
     - Use Case's place within the system and why it is important.
@@ -82,10 +82,10 @@
     - Alternative steps in use case execution.
 
 
-#### Use Case Example
+##### Use Case Example
 
 ![Use Case Example](../public/Use-Case-Example.png)
 
-##### Main Flow
+- Main Flow
 
 ![Example Main Flow](../public/Use-Case-Example-Main-Flow.png)
