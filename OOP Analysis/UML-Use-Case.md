@@ -50,6 +50,8 @@
 4. Use case description is used to model system behavior.
 5. Uses natural language.
 
+## UML Use Case Syntax 
+
 1. Use Case Diagram
 
 - Describes a discrete unit of behavior that has a clearly defined scope. 
