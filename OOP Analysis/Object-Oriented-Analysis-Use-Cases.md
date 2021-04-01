@@ -80,3 +80,5 @@
     - Important steps in a use case's normal execution.
 9. Extensions
     - Alternative steps in use case execution.
+
+![Use Case Example](../public/Use-Case-Example.png)
