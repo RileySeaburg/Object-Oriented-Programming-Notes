@@ -126,3 +126,16 @@
 ![2nd Generalization Example](../public/Generalization-Example-2.png)
 ![3rd Generalization Example](../public/Generalization-Example-3.png)
 
+### <<extend>> Relationship
+
+1. Used to specify an optional behavior.
+2. Appears as an extended use case.
+3. Independent of the main use case, but owned by it.
+4. Shown as a dashed arrow with <<extend>> label.
+5. Optional 
+
+#### <<extend examples>>
+
+![Extend Example](../public/Extend-Notation.png)
+![Extend Example Car](../public/Extend-Example-Car.png)
+![Extend Example TV](../public/Extend-Example-TV.png)
