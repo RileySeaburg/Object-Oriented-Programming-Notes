@@ -50,11 +50,23 @@
 4. Use case description is used to model system behavior.
 5. Uses natural language.
 
-## Use Case Diagram
+1. Use Case Diagram
 
-1. Describes a discrete unit of behavior that has a clearly defined scope. 
-2. Illustrates what should be done to achieve the goal of the use case.
-3. This maps into program code.
-4. Shown as an oval shape with the description of the behavior.
+- Describes a discrete unit of behavior that has a clearly defined scope. 
+- Illustrates what should be done to achieve the goal of the use case.
+- This maps into program code.
+- Shown as an oval shape with the description of the behavior.
+- Always triggered by an external entity.
 
-![Use Case UML Example](../public/Use-Case-UML-Example.png)
+![Use Case Diagram UML Example](../public/Use-Case-UML-Example.png)
+
+2. Actor
+
+- External entity interacts with the system.
+- Could be a person, system or some external entity.
+- May be defined outside the system. 
+- Acts as a black box and cannot be changed. 
+- Appears as a stick figure 
+
+![Stick Figure Example](../public/Stick-Figure.png)
+
