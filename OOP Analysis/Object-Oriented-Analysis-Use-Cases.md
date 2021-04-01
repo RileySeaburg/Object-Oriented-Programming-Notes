@@ -89,3 +89,16 @@
 - Main Flow
 
 ![Example Main Flow](../public/Use-Case-Example-Main-Flow.png)
+
+- Alternate Flow
+
+![Example Alternate Flow](../public/Use-Case-Example-Alternate-Flow.png)
+
+
+## Summary
+
+1. UML is used for object oriented analysis.
+2. It is a formal and standardized language.
+3. It uses notations to describe the system.
+4. Use case description is used to model system behavior.
+5. Uses natural language.
