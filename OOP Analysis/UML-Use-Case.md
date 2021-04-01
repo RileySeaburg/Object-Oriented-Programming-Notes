@@ -19,8 +19,10 @@
     - System condition after failed execution.
 5. Primary Actors
     - Actors that may trigger the use case.
+    - Displayed on left side of diagram.
 6. Secondary Actors
     - Actors that participate but are not main players in a use case's execution.
+    - Displayed on right side of diagram.
 7. Trigger
     - Event that causes the use case to execute.
 8. Main Flow
