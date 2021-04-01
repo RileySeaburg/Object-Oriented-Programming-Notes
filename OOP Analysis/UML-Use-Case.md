@@ -54,21 +54,21 @@
 
 1. Use Case Diagram
 
-- Describes a discrete unit of behavior that has a clearly defined scope. 
-- Illustrates what should be done to achieve the goal of the use case.
-- This maps into program code.
-- Shown as an oval shape with the description of the behavior.
-- Always triggered by an external entity.
+    - Describes a discrete unit of behavior that has a clearly defined scope. 
+    - Illustrates what should be done to achieve the goal of the use case.
+    - This maps into program code.
+    - Shown as an oval shape with the description of the behavior.
+    - Always triggered by an external entity.
 
-![Use Case Diagram UML Example](../public/Use-Case-UML-Image.png)
+    ![Use Case Diagram UML Example](../public/Use-Case-UML-Image.png)
 
 2. Actor
 
-- External entity interacts with the system.
-- Could be a person, system or some external entity.
-- May be defined outside the system. 
-- Acts as a black box and cannot be changed. 
-- Appears as a stick figure 
-
-![Stick Figure Example](../public/Stick-Figure.png)
+    - External entity interacts with the system.
+    - Could be a person, system or some external entity.
+    - May be defined outside the system. 
+    - Acts as a black box and cannot be changed. 
+    - Appears as a stick figure 
+    
+    ![Stick Figure Example](../public/Stick-Figure.png)
 
