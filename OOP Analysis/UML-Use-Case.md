@@ -90,3 +90,39 @@
       ![System Boundary Example](../public/System-Boundary.png)
 
 ![Use Case Diagram](../public/Use-Case-Diagram-Example.png)
+
+## Use Case relationships
+
+1. Some use similar steps in their behavior.
+2. Others may have different modes or special cases.
+3. Depicting such use cases may cause users to repeat them in diagrams.
+4. This will lead to large and complicated diagrams.
+5. UML provides different notations for representing these behaviors.
+
+### <<include>> Relationship
+
+1. A Use case may reuse all the steps from another use case.
+    - It "includes" the steps from another use case.
+2. This can be depicted through *<<include>>* relationship.
+3. In diagram, shown as a dashed arrow between use cases with *<<include>>* label.
+    - Tail end is towards the use case the reuses the steps.
+    - Arrow end points towards the use case that is reused. 
+4. Included use cases are mandatory not optional.
+
+![Include Notation Example](../public/Include-Notation.png)
+![Include Car Example](../public/Example-Include-Car.png)
+![Include ATM Example](../public/Include-Example-ATM.png)
+
+### Generalization Relationship
+
+1. Used to show that one use case is a type of another, but with some changes.
+2. Depicted through the generalization arrow.
+    - Arrow head points to generalized use case.
+    - Tail points to specialized use case.
+
+#### Generalization Examples
+
+![Generalization Example](../public/Generalization-Notation.png)
+![2nd Generalization Example](../public/Generalization-Example-2.png)
+![3rd Generalization Example](../public/Generalization-Example-3.png)
+
