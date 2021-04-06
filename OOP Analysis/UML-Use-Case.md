@@ -1,13 +1,26 @@
 # Use Case
 
-- Defines a model of a system behavior.
+## Table of Contents
+
+- [Use Case Description](#about)
+- [Getting Started](#getting_started)
+- [Usage](#usage)
+- [Contributing](../CONTRIBUTING.md)
+
+
+## Use Case Description
+- List of steps a system needs to follow to reach a goal
+    - Defines what is required and how those requirements are met.
+    - Don't try to write code in a Use Case Diagram.
+    - Shall vs Should Requirements
+- These steps normally include interactions with an actor. 
 - Uses natural language.
     - Designers and programmers use as a common reference.
 - Decomposes large system specification into small manageable parts.
 - Smaller parts are easily described, hence easily implemented.
 - Models functional behavior of the system.
 
-## Use Case Description
+## Use Case Usage
 
 1. Goal
     - Use Case's place within the system and why it is important.

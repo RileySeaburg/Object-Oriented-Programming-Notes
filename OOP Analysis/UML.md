@@ -1,4 +1,7 @@
-#UML Notes
+# UML Notes
+
+## UML REF
+![UML PLaylist](https://youtu.be/OkC7HKtiZC0)
 
 ## What is UML?
 
@@ -37,3 +40,23 @@
 - Scalable
 - Standard
 
+## UML Development process
+
+- Waterfall
+    - Analysis, Design, Coding & Testing
+- Iterative(Most Common)
+    - Solve project in pieces.
+    - Define system functionality in beginning. 
+    - Begin analysis design coding and testing on each individual piece. 
+
+## UML Planning Process
+
+- Predictive Planning - Rarely used
+- Adaptive Planning (Agile Development)
+- If you can easily list all requirements use Predictive planning.
+- Create use cases
+
+### UML Sketching
+
+
+### UML Blueprint
