@@ -1,7 +1,7 @@
 # UML Notes
 
 ## UML REF
-![UML PLaylist](https://youtu.be/OkC7HKtiZC0)
+[UML PLaylist](https://youtu.be/OkC7HKtiZC0)
 
 ## What is UML?
 
